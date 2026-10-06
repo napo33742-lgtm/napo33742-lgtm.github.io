@@ -1,1 +1,1 @@
-R7: CountryCapitals does not collect or share any personal user data.
+R7: CountryCapitals does not collect or share any personally identifiable information. However, the app uses third-party services (Google Analytics for Firebase and Firebase Crashlytics) that automatically collect anonymous device identifiers, app interaction data, and crash logs. This data is used solely to monitor app health, diagnose bugs, and improve the user experience.
