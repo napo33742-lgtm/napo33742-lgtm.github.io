@@ -171,3 +171,4 @@ pubmatic.com, 156931, RESELLER, 5d62403b186f2ace
 algorix.co, 54190, RESELLER, 5b394c12fea27a1d
 bidmachine.io, 100, RESELLER
 chartboost.com, 6ad0442d6fdbea6b31620992, DIRECT
+vungle.com, 6ad06f6a0c69d6b17717a3ad, DIRECT, c107d686becd2d77
