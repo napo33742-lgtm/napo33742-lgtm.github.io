@@ -170,3 +170,4 @@ smaato.com, 1100053415, RESELLER, 07bcf65f187117b4
 pubmatic.com, 156931, RESELLER, 5d62403b186f2ace
 algorix.co, 54190, RESELLER, 5b394c12fea27a1d
 bidmachine.io, 100, RESELLER
+chartboost.com, 6ad0442d6fdbea6b31620992, DIRECT
