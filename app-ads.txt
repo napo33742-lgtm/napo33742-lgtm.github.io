@@ -171,6 +171,7 @@ pubmatic.com, 156931, RESELLER, 5d62403b186f2ace
 algorix.co, 54190, RESELLER, 5b394c12fea27a1d
 bidmachine.io, 100, RESELLER
 chartboost.com, 6ad040d4063009292779f5f2, DIRECT
+chartboost.com, 6ad041c2825717bdd4cac54c, DIRECT
 loopme.com, 22182, DIRECT, 6c8d5f95897a5a3b
 video.unrulymedia.com, 557688749, RESELLER
 rubiconproject.com, 24600, RESELLER, 0bfd66d529a55807
