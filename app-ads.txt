@@ -1163,3 +1163,13 @@ anzu.io, 6a5e05f4e387a980826e2b22, reseller, 1c1b7acf4992136c
 pubmatic.com, 157097, reseller, 5d62403b186f2ace
 loopme.com, 15665, reseller, 6c8d5f95897a5a3b
 pubmatic.com, 168362, reseller, 5d62403b186f2ace
+pubmatic.com, 165874, RESELLER, 5d62403b186f2ace
+adwmg.com, 159512, RESELLER, c9688a22012618e7
+start.io, 131192070, RESELLER
+bold-win.com, 1013, RESELLER, 71746737d0bab951
+triplelift.com, 8614, RESELLER, 6c33edb13117fd86
+appnexus.com, 17973, RESELLER, f5ab79cb980f11d1
+playdigo.com, 1965, RESELLER
+my-cast.tv, 987033, RESELLER, 8c33fe1bd714ffd7
+monetrix.ai, 10761, RESELLER
+smaato.com, 1100059345, RESELLER, 07bcf65f187117b4
